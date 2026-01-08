@@ -3,7 +3,7 @@
 This repository contains a modern, responsive redesign of the [Get-Ryze.ai](https://www.get-ryze.ai/) website as part of an internship assignment.
 
 ## 🚀 Live Demo
-You can view the live version here: [Paste your Netlify Link here]
+You can view the live version here: [Click here to view Live Site](https://luxury-eclair-13df20.netlify.app/)]
 
 ## ✨ Features
 - **Modern UI/UX:** Built with a clean minimalist aesthetic and a professional color palette.
@@ -21,4 +21,5 @@ You can view the live version here: [Paste your Netlify Link here]
 - `about.html` - Mission & Vision page
 - `contact.html` - Contact form & details
 - `style.css` - Global styles
+
 - `script.js` - Dynamic interactions
