@@ -33,6 +33,30 @@ footer { background: var(--dark); color: white; padding: 60px 8% 20px; }
 .footer-container { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid #334155; padding-bottom: 20px; margin-bottom: 20px; }
 
 @media (max-width: 768px) {
-    .hero { flex-direction: column; text-align: center; }
-    .nav-links { display: none; }
+    .navbar {
+        flex-direction: column; 
+        padding: 15px;
+        height: auto;
+    }
+
+    .nav-links { 
+        display: flex !important; 
+        flex-direction: row;     
+        gap: 15px;
+        margin: 15px 0;
+        padding: 0;
+    }
+
+    .nav-links a {
+        font-size: 14px;
+    }
+
+    .btn-primary {
+        width: 100%;
+        text-align: center;
+    }
+
+    .hero-content h1 {
+        font-size: 2.5rem;
+    }
 }
